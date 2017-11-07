@@ -12,6 +12,7 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 ○ La localidad de sumapaz es la localidad con mayor extensión territorial con 78096 hectareas cuadradas.<br/>
 ○ La localidad de Kennedy es la que presneta mayor Densidad poblacional por km2, con 27,714 habitantes. <br/>
 ○ Suba es la localidad con mayor cantidad de predios clasificados como propiedad horizontal, con 345,849 predios. <br/>
+○ La localidad más verde, con el mayor número de árboles por cada 100.000 habitantes es la localidad de Santafe. <br/>
 
 ## Visualización
 
