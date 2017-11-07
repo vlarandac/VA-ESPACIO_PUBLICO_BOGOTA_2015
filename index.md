@@ -19,10 +19,17 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 <html>
 	<head>
 	  	<meta charset="utf-8">
-		<title>Tendencia en compra de libros de política de EEUU en Amazon.com</title>
+		<title>Distribución de recursos y población para la ciudad de Bogotá en el año 2015 y sus localidades</title>
 	</head>
 	<body>
-		<div><iframe src="books_adjacence.html" frameborder="0" width="1200" height="1200" scrolling="yes"></iframe></div>
+		<h3>Indicadores Bogotá</h3>
+		<div><iframe src="index_treemapbog.html" frameborder="0" width="2000" height="2000" scrolling="yes"></iframe></div>
+		
+		<h3>Indicadores de Suelo y demografía por localidad</h3>
+		<div><iframe src="index_treemap.html" frameborder="0" width="2000" height="2000" scrolling="yes"></iframe></div>
+		
+		<h3>Indicadores de esapcio público, hábitat y reovación urbaja por localidad</h3>
+		<div><iframe src="index_treemap2.html" frameborder="0" width="2000" height="2000" scrolling="yes"></iframe></div>
 
 
 
