@@ -23,13 +23,13 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 	</head>
 	<body>
 		<h3>Indicadores Bogotá</h3>
-		<div><iframe src="index_treemapbog.html" frameborder="0" width="2000" height="2000" scrolling="yes"></iframe></div>
+		<div><iframe src="index_treemapbog.html" frameborder="0" width="960" height="960" scrolling="yes"></iframe></div>
 		
 		<h3>Indicadores de Suelo y demografía por localidad</h3>
-		<div><iframe src="index_treemap.html" frameborder="0" width="2000" height="2000" scrolling="yes"></iframe></div>
+		<div><iframe src="index_treemap.html" frameborder="0" width="960" height="960" scrolling="yes"></iframe></div>
 		
 		<h3>Indicadores de esapcio público, hábitat y reovación urbaja por localidad</h3>
-		<div><iframe src="index_treemap2.html" frameborder="0" width="2000" height="2000" scrolling="yes"></iframe></div>
+		<div><iframe src="index_treemap2.html" frameborder="0" width="960" height="960" scrolling="yes"></iframe></div>
 
 
 
